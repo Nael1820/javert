@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Javert.png"><SubTexture name="Javert idle0000" x="2752" y="926" width="408" height="923" frameX="-279" frameY="-19" frameWidth="960" frameHeight="960" />
+<SubTexture name="Javert idle0001" x="2098" y="927" width="408" height="921" frameX="-281" frameY="-21" frameWidth="960" frameHeight="960" />
+<SubTexture name="Javert idle0002" x="1676" y="0" width="422" height="938" frameX="-264" frameY="-5" frameWidth="960" frameHeight="960" />
+<SubTexture name="Javert idle0003" x="1450" y="943" width="422" height="932" frameX="-268" frameY="-11" frameWidth="960" frameHeight="960" />
+<SubTexture name="Javert idle0004" x="1450" y="943" width="422" height="932" frameX="-268" frameY="-11" frameWidth="960" frameHeight="960" />
+<SubTexture name="Javert singDOWN0000" x="676" y="1881" width="382" height="908" frameX="-301" frameY="-35" frameWidth="960" frameHeight="960" />
+<SubTexture name="Javert singDOWN0001" x="1443" y="1881" width="383" height="898" frameX="-297" frameY="-45" frameWidth="960" frameHeight="960" />
+<SubTexture name="Javert singDOWN0002" x="1058" y="1881" width="385" height="907" frameX="-296" frameY="-36" frameWidth="960" frameHeight="960" />
+<SubTexture name="Javert singDOWN0003" x="1058" y="1881" width="385" height="907" frameX="-296" frameY="-36" frameWidth="960" frameHeight="960" />
+<SubTexture name="Javert singLEFT0000" x="0" y="1881" width="676" height="925" frameX="-11" frameY="-18" frameWidth="960" frameHeight="960" />
+<SubTexture name="Javert singLEFT0001" x="2752" y="0" width="664" height="926" frameX="-27" frameY="-17" frameWidth="960" frameHeight="960" />
+<SubTexture name="Javert singLEFT0002" x="2098" y="0" width="654" height="927" frameX="-28" frameY="-15" frameWidth="960" frameHeight="960" />
+<SubTexture name="Javert singLEFT0003" x="2098" y="0" width="654" height="927" frameX="-28" frameY="-15" frameWidth="960" frameHeight="960" />
+<SubTexture name="Javert singRIGHT0000" x="0" y="943" width="404" height="938" frameX="-286" frameY="-5" frameWidth="960" frameHeight="960" />
+<SubTexture name="Javert singRIGHT0001" x="0" y="0" width="396" height="943" frameX="-291" frameY="0" frameWidth="960" frameHeight="960" />
+<SubTexture name="Javert singRIGHT0002" x="1052" y="943" width="398" height="935" frameX="-295" frameY="-8" frameWidth="960" frameHeight="960" />
+<SubTexture name="Javert singRIGHT0003" x="1052" y="943" width="398" height="935" frameX="-295" frameY="-8" frameWidth="960" frameHeight="960" />
+<SubTexture name="Javert singUP0000" x="1034" y="0" width="642" height="940" frameX="-45" frameY="-2" frameWidth="960" frameHeight="960" />
+<SubTexture name="Javert singUP0001" x="396" y="0" width="638" height="942" frameX="-51" frameY="0" frameWidth="960" frameHeight="960" />
+<SubTexture name="Javert singUP0002" x="404" y="943" width="648" height="938" frameX="-41" frameY="-4" frameWidth="960" frameHeight="960" />
+<SubTexture name="Javert singUP0003" x="404" y="943" width="648" height="938" frameX="-41" frameY="-4" frameWidth="960" frameHeight="960" />
+</TextureAtlas>
