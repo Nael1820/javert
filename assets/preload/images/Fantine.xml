@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Fantine.png"><SubTexture name="Fantine idle0000" x="371" y="0" width="376" height="188" frameX="-283" frameY="-276" frameWidth="960" frameHeight="540" />
+<SubTexture name="Fantine idle0001" x="0" y="190" width="384" height="188" frameX="-279" frameY="-276" frameWidth="960" frameHeight="540" />
+<SubTexture name="Fantine idle0002" x="0" y="0" width="371" height="190" frameX="-286" frameY="-274" frameWidth="960" frameHeight="540" />
+<SubTexture name="Fantine idle0003" x="0" y="0" width="371" height="190" frameX="-286" frameY="-274" frameWidth="960" frameHeight="540" />
+</TextureAtlas>
